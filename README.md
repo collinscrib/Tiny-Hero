@@ -15,7 +15,7 @@ Controls: WASD for movement, Space Bar to jump, and Escape for the menu.
 * Creators: LegacyView and WaveyDavey
 
 <p align="center">
-  <img https://img.itch.zone/aW1hZ2UvMjY1MDAwLzEyNzYyNDgucG5n/347x500/Bc76vE.png>
-  <img https://img.itch.zone/aW1hZ2UvMjY1MDAwLzEyNzYyNTAucG5n/347x500/urQq99.png>
-  <img https://img.itch.zone/aW1hZ2UvMjY1MDAwLzEyNzYyNDkucG5n/347x500/dyJ3Yh.png>
+  <img src=https://img.itch.zone/aW1hZ2UvMjY1MDAwLzEyNzYyNDgucG5n/347x500/Bc76vE.png>
+  <img src=https://img.itch.zone/aW1hZ2UvMjY1MDAwLzEyNzYyNTAucG5n/347x500/urQq99.png>
+  <img src=https://img.itch.zone/aW1hZ2UvMjY1MDAwLzEyNzYyNDkucG5n/347x500/dyJ3Yh.png>
 </p>
