@@ -1,5 +1,3 @@
-# TinyHero
-
 ![alt-text](https://img.itch.zone/aW1nLzEyNzYyODAucG5n/original/6PAjoG.png)
 
 https://legacyview.itch.io/tiny-hero
